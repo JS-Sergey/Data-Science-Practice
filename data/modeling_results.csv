@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+LogisticRegression,0.7483,0.3483,0.6596,0.4559,0.7962
+RandomForest,0.8469,0.6667,0.0851,0.1509,0.7837
+CatBoost,0.8741,0.6562,0.4468,0.5316,0.7902
+LightGBM,0.8605,0.6364,0.2979,0.4058,0.7764
